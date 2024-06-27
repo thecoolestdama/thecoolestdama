@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Dâmarys and I'm study to be a fullstack developer</h2>
+<h2 align="center">Hi! 👋 My name is Dâmarys and I'm studying to become a full-stack developer.</h2>
 
 ###
 
